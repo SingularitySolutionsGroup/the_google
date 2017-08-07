@@ -1,6 +1,6 @@
 require 'interchangeable'
 require 'active_support/hash_with_indifferent_access'
-require 'google/api_client'
+require 'google/apis/drive_v2'
 require "the_google/event"
 require "the_google/calendar"
 require "the_google/perspective"
